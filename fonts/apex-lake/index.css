@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Apex Lake";
+  src:
+
+    url("./e46327dcdd2d20e7d60f35d5b7f44ca1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+0, U+20AC;
+}
+@font-face {
+  font-family: "Apex Lake";
+  src:
+
+    url("./20ccce158d95c482d1f9637518a092cf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+A3-A4, U+A7, U+B5-B6;
+}
+@font-face {
+  font-family: "Apex Lake";
+  src:
+
+    url("./6df322d746e94903fcc5ac32f442ec63.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+6A-7A;
+}
+@font-face {
+  font-family: "Apex Lake";
+  src:
+
+    url("./53e602f27e5812938e17f5454169dcdf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+D, U+20-21, U+24, U+30-39, U+3F, U+41-5A, U+61-69;
+}
